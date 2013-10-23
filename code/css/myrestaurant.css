@@ -1,0 +1,68 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#header{
+height:40px;	
+}
+.menu{
+height:40px;
+background-color:rgba(153,153,153,1);
+}
+
+ul.menu li{
+	color:white;
+	display:inline;
+	padding:0 15px 0 15px;
+}
+
+a{
+color:white;
+text-decoration:none;
+}
+
+.logo{
+z-index:1;
+}
+
+.slider{
+z-index:-1;
+background-color:rgba(0,0,0,1);	
+}
+
+.reservation{
+height:232px;
+background-color:rgba(204,204,204,1);
+}
+
+.bloc1{
+height:400px;
+}
+
+.img1{
+height:100px;
+background-color:rgba(255,0,0,1);	
+
+}
+
+.droite{
+background-color:blue;
+height:300px;	
+}
+
+.gauche{
+background-color:pink;
+height:300px;	
+}
+
+.bloc_g{
+background-color:rgba(0,255,204,1);
+height:300px;
+}
+
+
+.bloc_d{
+background-color:rgba(102,102,0,1);
+height:300px;
+}
+
+
